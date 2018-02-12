@@ -1,6 +1,5 @@
 Basic Moves.
 
-
 If you are getting rough with another character, roll + strong...
 On a 10: You get the upper hand.
 On a 7-9: You trade blows, take 1 harm and choose 2
@@ -36,14 +35,18 @@ On a 6: You are both doomed.
 If your partner is a PC:
 Both roll. The lowest wins. 
 
-When you are trying to explain to the authorities, and they are showing their incompitance, roll +popular...
-On a 10: You actually convince them! You must choose 2.
+When you are trying to manipulate people with words and actions, roll +popular...
+On a 10: You actually convince them! Whatever you want to happen happens. 
 On a 7-9: You don't convice them. Choose 2
 - They will stop by later to check on you guys
 - They reluctantly give you a clue as to Whats Really Going On.
 - They wont be dead the next time you see them. 
-- They will start doing somthing proactive. 
-On a 6: They consider you to be a suspect.   
+- They can give you somthing helpfull
+On a 6: Choose 1.
+- You get a desicive clue as to Whats Really Going On, but they now consider you to be a suspect.   
+- They either dont belive your version of events,or do not care.
+- They can help you, but it will cost you.
+
 
 When you come face to face with the killer, roll highest stat...
 On a 10: A lucky escape. 
@@ -53,20 +56,22 @@ On a 7-9: Take 1 harm and choose 1.
 - Another character interupts
 On a 6: You just die.  
 
-If it's tense, and you are searching a place, roll +smart...
+If it's tense, and you are searching for truth,  roll +smart...
 On a 10: Choose 3:
-On a 7-9: Choose 2:
+On a 7-9: Choose 2: 
+- You find a body
+- You find another character who can help
 - You find somthing you can use as a weapon
 - You find medical suplies 
 - You find a clue as to What Is Really Going On
-- The killer is somewhere else. 
+- The killer is somewhere else for a while. 
 On a 6: The GM chooses 1
 - The killer jumps out from some unexpected place ! 
 - Somthing jumps out from some unexpected place, but its just a cat !
 - A new character is introduced.
 - Somthing jumps out from some unexpected place, but its just a cat, not really its the killer ! 
 
-If are hiding, and another character is searching for you, roll +brave ...
+If are hiding from a forces which seeks you, roll +brave ...
 On a 10: Your hiding place is secure, and the threat leaves. For now. 
 on a 7-9: Choose 1
 - You have been discovered, but you can try to escape the situation
