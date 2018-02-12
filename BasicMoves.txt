@@ -1,7 +1,7 @@
 Basic Moves.
 
 If you are getting rough with another character, roll + strong...
-On a 10: You get the upper hand.
+On a 10: You get the upper hand. choose 2 with no harm.
 On a 7-9: You trade blows, take 1 harm and choose 2
 - You take somthing from them
 - You leave them in some way incapacitated 
@@ -15,17 +15,18 @@ On a 6: You are soundly defeated. The GM chooses 2.
 - It is embarassing.
 - They can escape the situation
 - You are now the target.
+- You just fucking die.
 
 If you are trying to escape the situation, roll +compitant...
 On a 10: You change scenes. You can frame the new scene however you wish.
 On a 7-9: Choose 1:
 - You can frame a new scene, but you must also take harm.
-- You can frame a new scene, but you take somthing with you.
+- You can frame a new scene, but you take somthing shit with you.
 - You can frame a new scene, but you are now the target.
 On a 6: Escape is currently impossible. Choose 1
 - You get rough with your pursuer 
 - You can try to hide
-- You can beg for mercy. 
+- You do nothing. 
 
 When you just had sex or were intimate with another character, roll + purity...
 If your partner is an NPC:
