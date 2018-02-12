@@ -1,0 +1,7 @@
+•	 When you do something relating to [specialty], add +1.
+•	 You have the ability to [do some sort of active special power]. It counts 
+as a basic move using [stat].
+•	 You have [some passive special power that has a constant efect].
+•	 You have a [thing]. When applicable, it adds +1 to [stat] and [stat].
+•	 When you do [specialty], mark XP.
+•	 Add +1 to [stat].
