@@ -1,7 +1,0 @@
-  
-PURITY   (Sexual)
-STRONG 	(Physical)
-SMART 	(Interlectual)
-COMPITANT (Skilled) 
-BRAVE (Endurance)
-POPULAR (Popular)

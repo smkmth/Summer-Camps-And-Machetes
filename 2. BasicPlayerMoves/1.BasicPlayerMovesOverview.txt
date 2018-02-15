@@ -17,7 +17,7 @@ On a 6: You are soundly defeated. The Director chooses 2.
 - You are now the target.
 - You just fucking die.
 
-If you are trying to escape the situation, roll +compitant...
+If you are trying to escape the situation, roll +Quick
 On a 10: You change scenes. You can frame the new scene however you wish.
 On a 7-9: Choose 1:
 - You can frame a new scene, but you must also take harm.
@@ -28,15 +28,7 @@ On a 6: Escape is currently impossible. Choose 1
 - You can try to hide
 - You do nothing. 
 
-When you just had sex or were intimate with another character, roll + purity...
-If your partner is an NPC:
-On a 10: You are fine. The NPC is doomed. 
-On a 7-9: You are the target.
-On a 6: You are both doomed. 
-If your partner is a PC:
-Both roll. The lowest wins. 
-
-When you are trying to manipulate people with words and actions, roll +popular...
+When you are trying to manipulate people, roll +Provocative
 On a 10: You actually convince them! Whatever you want to happen happens. 
 On a 7-9: You don't convice them. Choose 2
 - They will stop by later to check on you guys
@@ -49,15 +41,7 @@ On a 6: Choose 1.
 - They can help you, but it will cost you.
 
 
-When you come face to face with the killer, roll highest stat...
-On a 10: A lucky escape. 
-On a 7-9: Take 1 harm and choose 1.
-- You get rough with the killer
-- You can escape the situation 
-- Another character interupts
-On a 6: You just die.  
-
-If it's tense, and you are searching for truth,  roll +smart...
+If it's tense, and you are searching for truth,  roll +Smart...
 On a 10: Choose 3:
 On a 7-9: Choose 2: 
 - You find a body
@@ -72,16 +56,25 @@ On a 6: The Director chooses 1
 - A new character is introduced.
 - Somthing jumps out from some unexpected place, but its just a cat, not really its the killer ! 
 
-If are hiding from a forces which seeks you, roll +brave ...
-On a 10: Your hiding place is secure, and the threat leaves. For now. 
+If are trying to remain hidden, and watch from the shadows roll +Wierd..
+On a 10: Your hiding place is secure, and you can move unhampered. For now. 
 on a 7-9: Choose 1
-- You have been discovered, but you can try to escape the situation
-- You have beeb discovered, but you have some time to prepare 
-- You have been discovered, but the killer is toying with you. You are now the target.
+- You can move, but your hiding place is at risk
+- Your hiding place is completly secure, but you must remain still and silent. 
+- You are visable, but you are currently unnoticed, and able to act. 
 On a 6: The Directer chooses 1.
-- You are the new resident to stab city. You just die. 
-- You are captured 
-- You are incapacitated
+- You have been discovered, but you can try to escape the situation
+- You have been discovered, but you have some time to prepare 
+- You have been discovered, but the killer is toying with you. You are now the target
+
+
+When you come face to face with the killer, roll highest stat...
+On a 10: A lucky escape. 
+On a 7-9: Take 1 harm and choose 1.
+- You get rough with the killer
+- You can escape the situation 
+- Another character interupts
+On a 6: You just die.  
 
 
 

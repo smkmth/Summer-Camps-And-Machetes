@@ -14,10 +14,16 @@ As your character is going around doing stuff, you will occationally trigger a m
 
 Usually this is when somthing stressfull is happening, or you are trying to do somthing you might fail at. 
 
-The move lists what triggers it, and what dice to roll, and what stats to add to that roll. 
+Each move lists what triggers it, and what dice to roll, and what stats to add to that roll. 
 
 It will also list the results of the move. 
 
-3. Dice
 
-This game uses two d6, thats just the normal 6 sided dice which come with most games. 
+4. Dice
+
+This game uses two d6, thats just the normal 6 sided dice which come with most games. When the game asks you 
+to roll, you roll both dice and add the results together. 
+
+A result of less then 6 is usually a fail, a result of 7-9 is usually a pass but with complications and 10+ is 
+a complete sucess.
+
