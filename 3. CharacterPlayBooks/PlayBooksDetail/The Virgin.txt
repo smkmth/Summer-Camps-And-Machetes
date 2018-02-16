@@ -1,10 +1,19 @@
-You have an additional stat called purity. 
+
+ 
+
+
+Purity.
+
+You can choose +2 in any two stats, 0 in two stats and -1 in whats left. 
+
+You have an additional stat called purity which is set at a 3.
 
 
 When you just had sex or were intimate with another character, roll + purity...
 If your partner is an NPC:
-On a 10: You are together for ever. 
+On a 10: Choose.
 On a 7-9: Your partner is doomed
-On a 6: You are both doomed. 
+On a 6: You are doomed. 
 If your partner is a PC:
 Both roll. The lowest wins. 
+

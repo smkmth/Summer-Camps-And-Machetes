@@ -27,3 +27,8 @@ to roll, you roll both dice and add the results together.
 A result of less then 6 is usually a fail, a result of 7-9 is usually a pass but with complications and 10+ is 
 a complete sucess.
 
+Doomed. 
+
+Certain moves forsake you as 'Doomed'. This indicates that the hunter is specifically seeking
+you. If you survive an encounter with the hunter you are no longer doomed. If an NPC becomes doomed, they will die. 
+
